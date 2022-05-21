@@ -1,0 +1,3 @@
+Microsoft provides a way of creating a new, blank text file using the right-click menu in File Explorer.
+
+Open File Explorer and navigate to the folder where you want to create the text file. Right-click in the folder and go to New > Text Document.
